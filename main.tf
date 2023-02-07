@@ -8,4 +8,4 @@ resource "aws_subnet" "main" {
   cidr_block = var.cidr 
 }
 
-varible "cidr" {}
+variable "cidr" {}
